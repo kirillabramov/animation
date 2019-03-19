@@ -1,7 +1,7 @@
 {
   "name": "testing",
   "version": "0.1.0",
-  "home": "https://kirillabramov.github.io/animation",
+  "homepage": "https://kirillabramov.github.io/animation",
   "private": true,
   "dependencies": {
     "@babel/core": "7.1.0",
